@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.321fbcca.css",
-    "main.js": "/static/js/main.2c321c20.js",
+    "main.js": "/static/js/main.eafe4bb2.js",
     "static/media/Deep thhoughs.jpeg": "/static/media/Deep thhoughs.2f8d422b62d73838805f.jpeg",
     "static/media/giphy.gif": "/static/media/giphy.1031eb7ad7a1b5e50d55.gif",
     "static/media/bake-n-cake thumbnail.png": "/static/media/bake-n-cake thumbnail.2e98175c244c9296351b.png",
@@ -77,10 +77,10 @@
     "static/media/roboto-greek-ext-700-normal.woff": "/static/media/roboto-greek-ext-700-normal.249853776d22a271b2b5.woff",
     "index.html": "/index.html",
     "main.321fbcca.css.map": "/static/css/main.321fbcca.css.map",
-    "main.2c321c20.js.map": "/static/js/main.2c321c20.js.map"
+    "main.eafe4bb2.js.map": "/static/js/main.eafe4bb2.js.map"
   },
   "entrypoints": [
     "static/css/main.321fbcca.css",
-    "static/js/main.2c321c20.js"
+    "static/js/main.eafe4bb2.js"
   ]
 }
