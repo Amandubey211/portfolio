@@ -23,7 +23,7 @@ export const sendMail = async function sendMail(str, data) {
     Osubject = `Thank you for Contacting- ${data.Name}`;
     Ohtml = `
     <h1>    
-    hope you have good time!</h1>
+    hope you have good time!<br/> here is the detail you filled on my website <br/></h1>
   <br/>
     Name - ${data.Name} <br/>
     Email - ${data.Email} <br/>
