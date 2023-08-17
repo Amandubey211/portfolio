@@ -2,12 +2,12 @@
   "name": "backend",
   "version": "1.0.0",
   "description": "portfolio server",
-  "main": "Index.js",
+  "main": "server.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js",
-    "server": "node index.js",
+    "server": "node server.js",
     "client": "npm start --prefix ./client",
     "dev": " concurrently  \" npm start \"   \"npm run client  \" "
   },
