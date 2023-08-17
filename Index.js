@@ -13,9 +13,7 @@ app.use(express.static(path.join(__dirname, "./Client/build")));
 
 app.use("/api", FormRouter);
 
-app.get("/", (req, res) => {
-  res.send("hii aman");
-});
+
 
 app.get("*",function(req,res){
   res.sendFile(path.join(__dirname,"./Client/build/index.html"))
