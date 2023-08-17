@@ -13,13 +13,11 @@ app.use(express.static(path.join(__dirname, "./Client/build")));
 
 app.use("/api", FormRouter);
 
-
-
-app.get("*",function(req,res){
-  res.sendFile(path.join(__dirname,"./Client/build/index.html"))
-})
+app.get("*", function (req, res) {
+  res.sendFile(path.join(__dirname, "./Client/build/index.html"));
+});
 
 DBConnect();
-app.listen(5000, () => {
+app.listen(process.env.PORT, () => {
   console.log(`server connection successfull.`);
 });
