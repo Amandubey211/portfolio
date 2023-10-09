@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.1655fb68.css",
-    "main.js": "/static/js/main.567b90d2.js",
+    "main.css": "/static/css/main.593d6073.css",
+    "main.js": "/static/js/main.51a11fa4.js",
     "static/media/Deep thhoughs.jpeg": "/static/media/Deep thhoughs.2f8d422b62d73838805f.jpeg",
     "static/media/giphy.gif": "/static/media/giphy.1031eb7ad7a1b5e50d55.gif",
     "static/media/bake-n-cake thumbnail.png": "/static/media/bake-n-cake thumbnail.2e98175c244c9296351b.png",
@@ -17,6 +17,7 @@
     "static/media/Dashboard.png": "/static/media/Dashboard.27160a8755c3678162d6.png",
     "static/media/12th hsc certificate.jpg": "/static/media/12th hsc certificate.dde664f44d515b38e305.jpg",
     "static/media/future.jpg": "/static/media/future.5cbf0d6e04daacefe9f6.jpg",
+    "static/media/ChatApp.png": "/static/media/ChatApp.503202886390be4ac8b4.png",
     "static/media/Nimcet.jpg": "/static/media/Nimcet.e6ee4fb1c1b4ab7ae5f7.jpg",
     "static/media/Cet.jpg": "/static/media/Cet.c0079d383f9758ad88db.jpg",
     "static/media/Atom.webp": "/static/media/Atom.641120c348fe0278123b.webp",
@@ -79,11 +80,11 @@
     "static/media/roboto-greek-ext-400-normal.woff": "/static/media/roboto-greek-ext-400-normal.f708607d2a7290fb8bfa.woff",
     "static/media/roboto-greek-ext-700-normal.woff": "/static/media/roboto-greek-ext-700-normal.249853776d22a271b2b5.woff",
     "index.html": "/index.html",
-    "main.1655fb68.css.map": "/static/css/main.1655fb68.css.map",
-    "main.567b90d2.js.map": "/static/js/main.567b90d2.js.map"
+    "main.593d6073.css.map": "/static/css/main.593d6073.css.map",
+    "main.51a11fa4.js.map": "/static/js/main.51a11fa4.js.map"
   },
   "entrypoints": [
-    "static/css/main.1655fb68.css",
-    "static/js/main.567b90d2.js"
+    "static/css/main.593d6073.css",
+    "static/js/main.51a11fa4.js"
   ]
 }
