@@ -1,17 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.593d6073.css",
-    "main.js": "/static/js/main.68fa03a9.js",
+    "main.css": "/static/css/main.5d1e6a84.css",
+    "main.js": "/static/js/main.cf0be908.js",
+    "static/css/40.e4a51e55.chunk.css": "/static/css/40.e4a51e55.chunk.css",
+    "static/js/40.80654c82.chunk.js": "/static/js/40.80654c82.chunk.js",
+    "static/css/610.3c485955.chunk.css": "/static/css/610.3c485955.chunk.css",
+    "static/js/610.9f9269ad.chunk.js": "/static/js/610.9f9269ad.chunk.js",
+    "static/css/459.87f36cb7.chunk.css": "/static/css/459.87f36cb7.chunk.css",
+    "static/js/459.02f8ec9f.chunk.js": "/static/js/459.02f8ec9f.chunk.js",
+    "static/js/193.e01d0d95.chunk.js": "/static/js/193.e01d0d95.chunk.js",
+    "static/js/899.60cf520b.chunk.js": "/static/js/899.60cf520b.chunk.js",
+    "static/js/853.55fddaac.chunk.js": "/static/js/853.55fddaac.chunk.js",
     "static/media/bscit.pdf": "/static/media/bscit.aaf56d590c158f7b5716.pdf",
     "static/media/Deep thhoughs.jpeg": "/static/media/Deep thhoughs.2f8d422b62d73838805f.jpeg",
-    "static/media/giphy.gif": "/static/media/giphy.1031eb7ad7a1b5e50d55.gif",
+    "static/media/NetFlixGPT.png": "/static/media/NetFlixGPT.74a86ce7abdeb97f150d.png",
     "static/media/bake-n-cake thumbnail.png": "/static/media/bake-n-cake thumbnail.2e98175c244c9296351b.png",
     "static/media/Space.jpg": "/static/media/Space.774d7f9e9741bd18e07c.jpg",
     "static/media/AmanV2.png": "/static/media/AmanV2.8ffe33a16e8ac08d0f0e.png",
     "static/media/AmanV1.png": "/static/media/AmanV1.c45d3df2b3e97763098a.png",
     "static/media/AiStudio.png": "/static/media/AiStudio.fc7c9e9c0f3bb9529116.png",
     "static/media/AmanV3.png": "/static/media/AmanV3.5fb39fb57ee26f1142e4.png",
-    "static/media/giphy victory.gif": "/static/media/giphy victory.8cf9d3762f2c720d8301.gif",
     "static/media/Aman Dubey.jpg": "/static/media/Aman Dubey.5ce913cc7fdf1dc0cd13.jpg",
     "static/media/Earth.jpg": "/static/media/Earth.48950114f224a0e6f691.jpg",
     "static/media/10th ssc certificate.jpg": "/static/media/10th ssc certificate.2b566e2817ef1ec0347a.jpg",
@@ -24,6 +32,7 @@
     "static/media/Cet.jpg": "/static/media/Cet.c0079d383f9758ad88db.jpg",
     "static/media/Atom.webp": "/static/media/Atom.641120c348fe0278123b.webp",
     "static/media/CV.jpg": "/static/media/CV.0237d476daf4b944c2c3.jpg",
+    "static/media/BrainGames.png": "/static/media/BrainGames.0885d4a11da975d1e318.png",
     "static/media/logo.png": "/static/media/logo.2a44167d0b365a389245.png",
     "static/media/roboto-latin-500-normal.woff2": "/static/media/roboto-latin-500-normal.f25d774ecfe0996f8eb5.woff2",
     "static/media/roboto-latin-700-normal.woff2": "/static/media/roboto-latin-700-normal.227c93190fe7f82de3f8.woff2",
@@ -82,11 +91,20 @@
     "static/media/roboto-greek-ext-400-normal.woff": "/static/media/roboto-greek-ext-400-normal.f708607d2a7290fb8bfa.woff",
     "static/media/roboto-greek-ext-700-normal.woff": "/static/media/roboto-greek-ext-700-normal.249853776d22a271b2b5.woff",
     "index.html": "/index.html",
-    "main.593d6073.css.map": "/static/css/main.593d6073.css.map",
-    "main.68fa03a9.js.map": "/static/js/main.68fa03a9.js.map"
+    "main.5d1e6a84.css.map": "/static/css/main.5d1e6a84.css.map",
+    "main.cf0be908.js.map": "/static/js/main.cf0be908.js.map",
+    "40.e4a51e55.chunk.css.map": "/static/css/40.e4a51e55.chunk.css.map",
+    "40.80654c82.chunk.js.map": "/static/js/40.80654c82.chunk.js.map",
+    "610.3c485955.chunk.css.map": "/static/css/610.3c485955.chunk.css.map",
+    "610.9f9269ad.chunk.js.map": "/static/js/610.9f9269ad.chunk.js.map",
+    "459.87f36cb7.chunk.css.map": "/static/css/459.87f36cb7.chunk.css.map",
+    "459.02f8ec9f.chunk.js.map": "/static/js/459.02f8ec9f.chunk.js.map",
+    "193.e01d0d95.chunk.js.map": "/static/js/193.e01d0d95.chunk.js.map",
+    "899.60cf520b.chunk.js.map": "/static/js/899.60cf520b.chunk.js.map",
+    "853.55fddaac.chunk.js.map": "/static/js/853.55fddaac.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.593d6073.css",
-    "static/js/main.68fa03a9.js"
+    "static/css/main.5d1e6a84.css",
+    "static/js/main.cf0be908.js"
   ]
 }
