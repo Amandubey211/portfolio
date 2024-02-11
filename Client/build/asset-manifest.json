@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.74a863bb.css",
-    "main.js": "/static/js/main.008239f7.js",
+    "main.js": "/static/js/main.92cd157a.js",
     "static/css/296.c3aae6ea.chunk.css": "/static/css/296.c3aae6ea.chunk.css",
     "static/js/296.df4a21c5.chunk.js": "/static/js/296.df4a21c5.chunk.js",
     "static/css/217.0531852e.chunk.css": "/static/css/217.0531852e.chunk.css",
@@ -41,7 +41,7 @@
     "static/media/Aman Dubey.jpg": "/static/media/Aman Dubey.13b992bd9511f7b367c4.jpg",
     "index.html": "/index.html",
     "main.74a863bb.css.map": "/static/css/main.74a863bb.css.map",
-    "main.008239f7.js.map": "/static/js/main.008239f7.js.map",
+    "main.92cd157a.js.map": "/static/js/main.92cd157a.js.map",
     "296.c3aae6ea.chunk.css.map": "/static/css/296.c3aae6ea.chunk.css.map",
     "296.df4a21c5.chunk.js.map": "/static/js/296.df4a21c5.chunk.js.map",
     "217.0531852e.chunk.css.map": "/static/css/217.0531852e.chunk.css.map",
@@ -56,6 +56,6 @@
   },
   "entrypoints": [
     "static/css/main.74a863bb.css",
-    "static/js/main.008239f7.js"
+    "static/js/main.92cd157a.js"
   ]
 }
