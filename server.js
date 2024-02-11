@@ -19,9 +19,9 @@ app.use("/api", FormRouter);
 app.use("*", function (req, res) {
   res.sendFile(path.join(__dirname, "./Client/build/index.html"));
 });
-app.get("/check", (req, res) => {
-  res.send({success:true,message:"hey user welcome to my portfolio"});
-});
+// app.get("/check", (req, res) => {
+//   res.send({success:true,message:"hey user welcome to my portfolio"});
+// });
 DBConnect();
 app.listen(process.env.PORT, () => {
   console.log(`server connection successfull.`);
