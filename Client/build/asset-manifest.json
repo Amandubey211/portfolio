@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.74a863bb.css",
-    "main.js": "/static/js/main.e117609f.js",
+    "main.js": "/static/js/main.ebc75253.js",
     "static/css/296.c3aae6ea.chunk.css": "/static/css/296.c3aae6ea.chunk.css",
     "static/js/296.df4a21c5.chunk.js": "/static/js/296.df4a21c5.chunk.js",
     "static/css/217.0531852e.chunk.css": "/static/css/217.0531852e.chunk.css",
@@ -12,6 +12,7 @@
     "static/js/459.a4aa05d5.chunk.js": "/static/js/459.a4aa05d5.chunk.js",
     "static/js/868.1759193e.chunk.js": "/static/js/868.1759193e.chunk.js",
     "static/js/704.c82b94fa.chunk.js": "/static/js/704.c82b94fa.chunk.js",
+    "static/js/384.79e3eba5.chunk.js": "/static/js/384.79e3eba5.chunk.js",
     "static/js/853.55fddaac.chunk.js": "/static/js/853.55fddaac.chunk.js",
     "static/media/Space.jpg": "/static/media/Space.7f840b4bb76ef545d22e.jpg",
     "static/media/Deep thhoughs.jpeg": "/static/media/Deep thhoughs.4d808aeb02dc69638e49.jpeg",
@@ -41,7 +42,7 @@
     "static/media/Aman Dubey.jpg": "/static/media/Aman Dubey.13b992bd9511f7b367c4.jpg",
     "index.html": "/index.html",
     "main.74a863bb.css.map": "/static/css/main.74a863bb.css.map",
-    "main.e117609f.js.map": "/static/js/main.e117609f.js.map",
+    "main.ebc75253.js.map": "/static/js/main.ebc75253.js.map",
     "296.c3aae6ea.chunk.css.map": "/static/css/296.c3aae6ea.chunk.css.map",
     "296.df4a21c5.chunk.js.map": "/static/js/296.df4a21c5.chunk.js.map",
     "217.0531852e.chunk.css.map": "/static/css/217.0531852e.chunk.css.map",
@@ -52,10 +53,11 @@
     "459.a4aa05d5.chunk.js.map": "/static/js/459.a4aa05d5.chunk.js.map",
     "868.1759193e.chunk.js.map": "/static/js/868.1759193e.chunk.js.map",
     "704.c82b94fa.chunk.js.map": "/static/js/704.c82b94fa.chunk.js.map",
+    "384.79e3eba5.chunk.js.map": "/static/js/384.79e3eba5.chunk.js.map",
     "853.55fddaac.chunk.js.map": "/static/js/853.55fddaac.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.74a863bb.css",
-    "static/js/main.e117609f.js"
+    "static/js/main.ebc75253.js"
   ]
 }
